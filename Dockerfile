@@ -1,5 +1,5 @@
 FROM tobyxdd/hysteria:v2 AS hysteria-image
-FROM jklolixxs/sing-box:latest AS sing-box-image
+FROM bi4nbn/sing-box:latest AS sing-box-image
 
 FROM python:3.12-alpine
 
