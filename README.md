@@ -1,4 +1,4 @@
-Marznode
+Marznode Mirza
 ---------
 Just a fork of Marzban-node.
 
